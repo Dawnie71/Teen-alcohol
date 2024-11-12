@@ -10,6 +10,13 @@ The live project can found here: <a href="https://dawnie71.github.io/Teen-alcoho
 
 <h2 align="center" id="TOC">Table of Contents</h2>
 
+<ul>
+  Justification
+  Description
+  Programming information
+  credits
+  
+</ul>
 <h3>Description<h3>
 <p>THis webpage is the landing page that opens a gateway to help young people, and their families to find the most effective and indidualised support to help them manage or overcome their issues with alocohol. Unlike drugs, alcohol is legally available, once an individual turns 18, and is often portrayed in the media, and among adults as a way to socialise, to fit in, and in some cases to relieve issues. 
   
