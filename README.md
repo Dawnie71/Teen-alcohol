@@ -9,7 +9,7 @@ Teens and Alcohol is my first assessed portfolio project developed to meet the l
 The live project can found here: <a href="https://dawnie71.github.io/Teen-alcohol/" target="_blank">Teens and Alcohol</a>
 
 <h2 align="center" id="TOC">Table of Contents</h2>
-
+<head>
 <ul>
   Justification
   Description
@@ -17,9 +17,12 @@ The live project can found here: <a href="https://dawnie71.github.io/Teen-alcoho
   credits
   
 </ul>
-<h3>Description<h3>
+<body>
+<h43>Description</h4>
 <p>THis webpage is the landing page that opens a gateway to help young people, and their families to find the most effective and indidualised support to help them manage or overcome their issues with alocohol. Unlike drugs, alcohol is legally available, once an individual turns 18, and is often portrayed in the media, and among adults as a way to socialise, to fit in, and in some cases to relieve issues. 
   
 </p>
 
 Lighthouse Reports. 
+
+</body>
