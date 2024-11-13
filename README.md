@@ -8,17 +8,17 @@
 </p>
 
 ## Introduction 
-<a> My first venture into designing my 
-</a>
+<a> Welcome to my first foray into building a web browser page. Historically I have taught in the NEET agenda and one of the foremost issues for young people was alcohol misuse. Aside from the obvious perils and legal challenges that arise from teenagers and alcohol generally young people have a level of self awareness and use alcohol for a number of personal reasons. I chatted with an old colleague about this project and she suggested this topic, I thought it met the objectives, and may very well be made useful down the line!
 
-
-<p align="right"><a href="#astronauts-for-autism">Back To Top</a></p>
+<p align="right"><a href="#Alcohol and Teens">Back To Top</a></p>
 
 ## Project Outline
 
-Astronauts for Autism is a fictional organisation dedicated to the support of autistic children and their families, with a primary focus on education and learning during weekly guided sessions. The page developed as part of this project documents the organisation's safeguarding policies and practices whilst offering information, support and contact options for children and parents alike.
+Alcohol and Teens is borne out of an issue which is prevalent in our society and is particularly challenging due to it's accessibility in communities, it's portrayal in the media and the experiences children and young people have from seeing how alcohol is nused in ther own family and social settings.
 
-The final deliverable as well as fulfilling the content requirements is responsive to modern device standards, adheres to accessibility requirements and is aesthetically pleasing with a focus on the needs and well-being of in the intended end-user.
+Drugs are inherently viewed differently, less acceptible, illegal and anti-social, therefore drugs are viewed in a totally different way to alcohol. For so many alcohol is a way to socialise, to alleviate the days tensions, to feel part of a group and these reasons are cited by young people too. 
+
+Adults, in some cases, struggle to regulate their alcohol use and keep it within safe boundaries. For young people and teenagers it comes with a particular issue as their use of alcohol is illegal, antisocial and comes with a stigma. That stigma can be exacerbated, and exagerated, by issues within ethnic communities and those who identify within the LGBTQ+ community.
 
 ### Key Objectives
 
@@ -32,156 +32,74 @@ The final deliverable as well as fulfilling the content requirements is responsi
 
 ## User Stories 
 
-As a parent, I want to know the safeguarding measures in place so I can feel confident knowing my child will be safe during their guided sessions.
+ I am a fifteen year old who needs information about help with me and my friends drink. I am beginning to think it is too much. I drink before we go out now and drink when we are out. I got spoken to by the police and need to think about stopping.
 
-As a parent, I want to easily find additional resources to support my child knowing these will be similar to what they have already learned within the sessions to prevent confusion and frustration. 
+ My son has come home a few times from his friends house, smelling of alcohol. He refuses to talk to me but I have heard he has been let go from the football team.
 
-As a child, I want to find resources that help me when I am feeling overwhelmed. 
+ My husband and son have been falling out lately because my son is not taking our move well. He is hanging out with a new group of friends and has been showing up late for work, he is not completing his studies, and rumours in the community suggest he is drinking alcohol with his new friends. I am frightened but have no where to go to get help.
 
-As a child, I want to be able to talk to someone when I am scared and need help.
+ I am a teacher working at a local high school and wish to be able to research information to support in my PSHE lessons. I hope to signpost my students toward a useful resource.
 
-As a staff member, I want to be able to reassure children and parents that we provide a safe environment. 
-
-As a staff member, I want to be able to provide an easy point of access to resources to supplement our sessions.
-
-As a staff member, I want to provide an easy and secure method of communication, which may also include anonymity to protect those that feel unsafe. 
+ I socialise with people older than myself because my friends are not gay. I'm not out to my peer group, and have struggled to make friends. I have joined a group of people who are gay but think I am older than I am.
 
 <hr>
-<p align="right"><a href="#astronauts-for-autism">Back To Top</a></p>
+<p align="right"><a href="#alcohol-and-teens">Back To Top</a></p>
 
 ## Colors
 
-Color selection is a key component to any design process, however with the nature of the project this consideration is even greater due to the needs of the end user and the potential for negatively impacting their well-being. 
+Color selection is a key component to any design process. I particularly wanted my web page to appeal to young people and did a search for colours that would appeal to Gen Z, the age group who my site is aimed at but when I used colours, like bright green, bright pink, yellow and teal, feedback was that the page looked childish. I therefore opted for more subtle colours.
 
-The artwork and color selection thus played a integral part in the design of this project as they were essential in creating a welcoming and appropriate page for the end user and their specific needs. After much research and inspiration, combining general color theory, autistic specific color theory, my own personal experience of working with autistic children and adults, as well as feedback, I was able to determine an appropriate color scheme that is aesthetically pleasing whilst being both calming and engaging. 
-
-To ensure compliance to standards, the [Colour Contrast Checker](https://colourcontrast.cc/) (also available as extension on [Chrome Web Store](https://chromewebstore.google.com/detail/colour-contrast-checker/nmmjeclfkgjdomacpcflgdkgpphpmnfe)) was used.<br>
+To ensure compliance to standards, the [Colour Contrast Checker](https://colourcontrast.cc/) (also available as extension on [Chrome Web Store](https://chromewebstore.google.com/detail/colour-contrast-checker/)) was used.<br>
 Both the [WebAIM](https://webaim.org/resources/contrastchecker/) and the [Adobe](https://color.adobe.com/create/color-contrast-analyzer) color contrast tools were used to corroborate these results.
 
 ### Main Palette
 
-- Deep Sky Blue `#30C5FF` `--blue`
-- Pink Lavender `#E4B7E5` `--pink`
-- Russian Violet `#381A46` `--purple`
-- Spring Green `#21F383` `--green`
-- Vanilla `#EEEEA2` `--yellow`
+- #184f63 charcoal
+  white
+  #01ffff teal
+  18df83 green
 
-![Color Contrast Checker Results](/documentation/images/color-contrast.gif)
-
-Due to the potential impact of color on autistic persons, additional research and feedback was sought out in order to ensure an appropriate selection was made for this project. Resources consulted can be found in the documentation for additional [research](/documentation/research.md).
 
 <hr>
-<p align="right"><a href="#astronauts-for-autism">Back To Top</a></p>
+<p align="right"><a href="#alcohol-and-teens">Back To Top</a></p>
 
 ## Fonts
+url("https://fonts.googleapis.com/css2?family=Comic+Neue:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Oxygen:wght@300;400;700&display=swap")
 
-As with color, font was a big consideration for ensuring a positive user experience whilst visiting the page.<br>
-Two sans-serif fonts were selected for the project, and implemented via [Google Fonts](https://fonts.google.com) using a direct import code within the style.css file.
-
-[Fredoka](https://fonts.google.com/specimen/Fredoka) serves as playful font to be used within logos, headings other page elements of significance.
-
-[Prompt](https://fonts.google.com/specimen/Prompt) is to be used as the primary content font ensuring ease of readability and complementing the Fredoka font choice. 
+I chose to use Oxygen and Comic Neue, as they look less formal than the standard fonts, and this site had to offer a friendly, less formal, look. THese fonts achieve this outcome, based on user feedback.
 
 <hr>
-<p align="right"><a href="#astronauts-for-autism">Back To Top</a></p>
+<p align="right"><a href="#alcohol-and-teens">Back To Top</a></p>
 
 ### Wireframes
 
 These low-fidelity wireframes have been created using [Balsamiq](https://balsamiq.com/) to plan for the eventu8al web design for well structured content and a responsive design. 
-![Mobile Wireframe](/documentation/images/wireframe-mobile.webp)
+![Wireframe](documentation/Teen-alcohol-wireframe-DT..bmpr)
 
 
 ## Imagery
 
-The image selection became a key influence in the design of the overall project, including naming and branding.
+I opted to use stock imagery, due to the limited time of this assignment. I chose photographs from Pexels (https://www.pexels.com/search/istock/)
+ 
+#### Navigation ####
 
-With the requirements of the end user in mind, I sought out images that would fulfil specific criteria;
-- Strong thematic link that could be used for branding purposes
-- Easily identifiable and appealing to the target audience
-- Promote inclusivity
-- Have wide variety for appropriate use and relevance across project
-- Adhere to color research to maintain user well-being
+I opted for navigation to a contact form. The contact form allows anyone accessing the sight to request contact from the organisation.
 
-After seeking out many options including animal images in the same style, I opted to use the Astronaut.
+###Contact Form##
 
-This selection of images fulfilled the criteria set out and offered further inspiration. 
-- Astronaut character maintains consistent theme and works well as brand image and name
-- Usage of the same character makes the images eaily identifiable and has a fun and playful appeal
-- Adopting research that has been applied to comic book superheroes, the use of a mask to hide identity allows the character to adopt universal representation and inclusivity
-- The images available using this character was great in number (more than included here) which would allow for relevant inclusion across the project and future implementation
-- The images not only adhered to the color requirements, but also informed minor adjustments to the color palette
+The form is designed as a collect all. It requests contact details, and a small message to outline the issue so that an appropriate person can make contact for the most effective initial contact.
 
-Before implementing the images into the project I used [Affinity Photo 2](https://affinity.serif.com/en-gb/photo/) to make some minor adjustments. This included removing background colors, removing hearts that felt inappropriate to the end user and converting them to webp formatting to follow current standards.
-
-![Astronaut Images](/documentation/images/images.gif)
-- Astronaut Artwork: Designed by [Freepik](http://www.freepik.com/) - Following [Attributation Policy](https://support.freepik.com/s/article/Attribution-How-when-and-where?language=en_US)
-
-During my process of seeking out feedback for UX my decision to include the astronaut character based up on the anonymity and thus inclusivity was confirmed to be a positive one.
-![Mobile Wireframe](/documentation/images/space_mumma.png)
-
-<hr>
-<p align="right"><a href="#astronauts-for-autism">Back To Top</a></p>
-
-## Features
-
-### General Features
-
-In order to fulfil the criteria the page consists of various sectioned information each with a variety of links, resources and other elements that contribute to a positive user experience. 
-
-Upon coding the project, receiving feedback and implementing the [Bootstrap Framework](https://getbootstrap.com/docs/5.3/getting-started/introduction/) the features and design shifted slightly from the original wireframe.
-
-Some key adjustments: 
-
-- The inclusion of buttons within the hero section.<br>
-This was done to reflect the clearly definied section of content and provide the user an easy navigation link to the section they would most likely be seeking to interact with. 
-
-- Opting not centre all content within their respective parents.<br>
-This decision was made as a result of personal reflection and user feedback to provide a more enjoyable user experience.
-
-#### Navigation and Hero Section
-
-I chose to use a bold and welcoming hero section for the start of the page using the [Bootstrap Jumbotron](https://getbootstrap.com/docs/5.3/examples/jumbotron/)
-
-This gives a clear indication of the content as well as imagery that links to the brand and identity of the organisation.
-
-Within this section I have included two buttons that present easy to navigate options for the user to access the relevant section of the page for their needs.
-
-The navigation bar is a Bootstrap component that allows for easy navigation around the site using a familiar method for a positive user experience.
-
-![Navigation & Hero](/documentation/images/nav-and-hero.webp)
-
-#### Bootstrap Cards
-
-I opted to utilise the [Bootstrap Card](https://getbootstrap.com/docs/5.3/components/card/) feature for the main content of the page as this allowed for a clean organisation of the information. 
-
-Within these sections I have also opted to provide additional resources, links and access to contact modals via buttons for ease.
-
-For balance I also gave the cards a consistent height by adding the `h-100` class.
-
-![Cards](/documentation/images/cards.webp)
-
-#### Policies Section
-
-Mirroring the design of the hero section, I have included a safeguarding policies section for the organisation giving basic details and providing a link to download the policy in full. 
-
-This section not only serves as a vital area for information, but also as a visual divider between the card sections aimed at parents and their families. 
-
-![Policies Section](/documentation/images/policies.webp)
 
 #### Footer
 
-For the footer again I implemented a [Bootstrap](https://getbootstrap.com/docs/5.3/examples/footers/) component.
 
-Here I have used the bold contrast of the purple to distinguish it apart from the rest of the page allowing it to be easily identifiable across the whole website.
-
-The information provided in this section is considered somewhat standard and provides for a user experience that is easy to understand. 
 
 #### Links and Buttons
 
-Although the page used a variety of colours for buttons to adhere to contrast requirements, each link and button does maintain a level of consistency by utilising the `var(--blue)` as part of it's `:hover` status in some way.
+All buttons lead to the contact form.
 
 <hr>
-<p align="right"><a href="#astronauts-for-autism">Back To Top</a></p>
+<p align="right"><a href="#alcohol-and-teens">Back To Top</a></p>
 
 ### Responsive Design
 
@@ -189,45 +107,18 @@ Utilising the [Bootstrap Framework](https://getbootstrap.com/docs/5.3/getting-st
 
 Though it took some experimentation and troubleshooting, I have been able to create a page that is fully responsive to modern standards.
 
-This has proven to be a very valuable learning experience in the use of frameworks.
-As a result of my debugging within Dev Tools in order to identify and resolve responsiveness issues I believe I have a much greater understanding of how to adpat Bootstrap for use within future projects. 
-
-During testing it was apparent that `display-6` was too large for the navbar brand text so this was removed to increase responsivity.
-
-[Am I Responsive](https://ui.dev/amiresponsive?url=https://therickyroy.github.io/astronauts-for-autism/)<br>
-![Am I Responsive](/documentation/images/responsive.webp)<br>
-![Mobile](/documentation/images/mobile.webp)<br>
-![ipad Mini](/documentation/images/ipad-mini.webp)<br>
-![Dektop](/documentation/images/desktop.webp)<br>
-
-<hr>
-<p align="right"><a href="#astronauts-for-autism">Back To Top</a></p>
-
 
 ## Built With
 
 ### Technologies and Languages
-![Static Badge](https://img.shields.io/badge/HTML5-Language-grey?logo=html5&logoColor=%23ffffff&color=%23E34F26)
-![Static Badge](https://img.shields.io/badge/CSS3-Language-grey?logo=css3&logoColor=%23ffffff&color=%231572B6)
 
-<a href="https://git-scm.com/" target=_blank_>![Static Badge](https://img.shields.io/badge/Git-v2.46.2-grey?logo=git&logoColor=%23ffffff&color=%23F05032)</a>
-<a href="https://github.com/" target="_blank">![Static Badge](https://img.shields.io/badge/GitHub-Repo_Hosting-white?logo=github&logoColor=%23ffffff&color=%23181717)</a>
-<a href="https://www.gitpod.io/" target="_blank">![Static Badge](https://img.shields.io/badge/Gitpod-IDE-white?logo=gitpod&logoColor=%23ffffff&color=%23FFAE33)</a>
-
-### Libraries and Frameworks
-<a href="https://getbootstrap.com/" target="_blank">![Static Badge](https://img.shields.io/badge/Bootstrap-v5.3.3-grey?logo=bootstrap&logoColor=%23ffffff&color=%237952B3)</a>
-<a href="#" target="_blank">![Static Badge](https://img.shields.io/badge/Font_Awesome-Icons-grey?logo=fontawesome&logoColor=%23ffffff&color=%23538DD7)</a>
-<a href="#" target="_blank">![Static Badge](https://img.shields.io/badge/Google_Fonts-Fonts-grey?logo=googlefonts&logoColor=%23ffffff&color=%234285F4)</a>
-
-
-### Tools and Programs
-<a href="https://affinity.serif.com/en-gb/" target="_blank">![Static Badge](https://img.shields.io/badge/Affinity-Photo%202-grey?logo=affinityphoto&logoColor=%23ffffff&color=%234E3188)</a>
-<a href="https://balsamiq.com/wireframes/" target="_blank">![Static Badge](https://img.shields.io/badge/Balsamiq-Wireframes-grey?logoColor=%23ffffff&color=%23CC0100)</a>
-<a href="https://ezgif.com/maker" target="_blank">![Static Badge](https://img.shields.io/badge/Ezgif-GIF_Maker-grey?logoColor=%23ffffff&color=%23ffffff)</a>
-
-
+### Tools and Programmes ##
+Git HUb repository - https://fonts.google.com/
+Balsamiq Wireframes - https://fonts.google.com/
+Google Fonts - https://fonts.google.com/
+Pexels Images - https://www.pexels.com/search/istock/
 <hr>
-<p align="right"><a href="#astronauts-for-autism">Back To Top</a></p>
+<p align="right"><a href="#alcohol-and-teens">Back To Top</a></p>
 
 ## Deployment
 
@@ -251,7 +142,7 @@ Additional information on the deployment process can be found on the official [G
 
 
 <hr>
-<p align="right"><a href="#astronauts-for-autism">Back To Top</a></p>
+<p align="right"><a href="alcohol-and-teens">Back To Top</a></p>
 
 ## Testing
 
@@ -263,10 +154,10 @@ This included regular debugging and testing using the Dev Tools as ptovided with
 ![HTML Validation](/documentation/images/validation-html.webp)
 
 [CSS Validation](https://jigsaw.w3.org/css-validator/)<br>
-![CSS Validation](/documentation/images/validation-css.webp)
+![CSS Validation]
 
 [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview)<br>
-![Lighthouse](/documentation/images/lighthouse.webp)
+![Lighthouse](documentation/validation/Lighthouse%20report%20gen%201.pdf)
 
 <hr>
 <p align="right"><a href="#astronauts-for-autism">Back To Top</a></p>
