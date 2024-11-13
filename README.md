@@ -1,7 +1,6 @@
 # Teens and Alcohol
 
-![Teens and Alcohol] (/documentation/images/)
-
+![Teens and Alcohol](assets/images/Alcoholuse.webp)
 
 <p align="center">
 | <a href="https://dawnie71.github.io/Teen-alcohol/" target="_blank">Live Project</a> |
@@ -160,44 +159,13 @@ This included regular debugging and testing using the Dev Tools as ptovided with
 ![Lighthouse](documentation/validation/Lighthouse%20report%20gen%201.pdf)
 
 <hr>
-<p align="right"><a href="#astronauts-for-autism">Back To Top</a></p>
-
-## Credits
-
-### Code
-
-Project and primary learning supplied by [Code Institute](https://codeinstitute.net/ie/)<br>
-Supplemental learning resources directly used / referenced within the project:
-
-- 
-- [Bootstrap Docs](https://getbootstrap.com/docs/5.3)
-- [Bootstrap 5 Crash Course Tutorial #9 - Navbars - YouTube](https://www.youtube.com/watch?v=7AT1X9Z41sA&t=677s)
-- [CSS Variables - The var() function](https://www.w3schools.com/css/css3_variables.asp)
-- [Gemini](https://gemini.google.com) as a learning tool, no code was directly used
-- [Make cards same height side-by-side in Bootstrap 5 - YouTube](https://www.youtube.com/watch?v=wolSRMGJ-Ls)
-- [Mozilla - mdn web docs](https://developer.mozilla.org/)
-
-All additional sources that complemented my learning can be round within additional [research](/documentation/research.md).
-
-### Content Research
-
-Due to the nature of the content within this project I was taken down many avenues of research, in part for specifics regarding the content, but also as part of my own personal development and continued learning on how to apply learning objectives to research methodologies. 
-
-The additional [research](/documentation/research.md) has been compiled into list and can be found within the documentation folder of this repo. 
-
-### Media
-
-- Astronaut Artwork: Designed by [Freepik](http://www.freepik.com/) - Following [Attributation Policy](https://support.freepik.com/s/article/Attribution-How-when-and-where?language=en_US)
-- Static badges for README documentation [Shields.io](https://shields.io/badges/static-badge) & [Simple Icons](https://simpleicons.org/)
+<p align="right"><a href="#alcohol-and-teens">Back To Top</a></p>
 
 ### Acknowledgements
 
-- Rhiannon and Jessie for providing feedback on the user experience and colors based on their experience working with autistic children and adults.
-- Julia for providing feedback on design and navigation and also identifying typos.
-- Space_Mumma for providing feedback on design and also inadvertently corroborating my decision to use the astronaut character for this project.
+My friends who work in various services across Hyndburn, who have volunteered their time but have aske not to be named individually for confidentiality purposes. 
 
-<hr>
-<p align="right"><a href="#astronauts-for-autism">Back To Top</a></p>
+My husband for casting a critical eye over my design and my product... without him I would have given up within an hour!
 
 Use clear and concise language.
 Use headings and code blocks to format your README.
