@@ -1,28 +1,54 @@
+<h1>Project Title</h1>
 
-<p align="center">
-| <a href="https://dawnie71.github.io/Teen-alcohol/" target="_blank">Live Project</a> |
-</p>
-## Introduction 
+<he>Description</h3>
+At this stage in the programme, my peers and I have been asked to complete a formative assessment to measure our own progress on the course so far. We were given four options, with the same learning outcomes which was to use the applications we have covered so far, HTML, CSS, Bootstrap, and AI. Using these I have developed a one page help website to support young people experiencing issues with alcohol. The specifics are that the Teen Alcohol website, is aimed at young people, and their families, providing information, resources, signposting and contact information for people who wish to speak with someone. Considering our communities and some known concerns when tackling teenage alcohol, it has been important to feature specialist provision for Ethnic communities, and LGBTQ+. Whilst at this stage the links do not lead to the sections offered, it is a consideration for me to develop this beyond the project.
 
-Teens and Alcohol is my first assessed portfolio project developed to meet the learning outcomes of the Code Institute Full Stack Software Developer Bootcamp, incorporating HTML5, CSS3 & Bootstrap. Learning outcome four recommends we select a subject within mental health, and so having worked as a teacher and lecturer, in the post 16 sector. and with NEETS, usually aged 14-19, alcohol use and misuse has been a predominant issue affecting the young people I worked with.
+Getting Started
 
-The live project can found here: <a href="https://dawnie71.github.io/Teen-alcohol/" target="_blank">Teens and Alcohol</a>
+Clone the repository:
+Bash
+git clone https://github.com/your-username/your-repo-name.git
+Use code with caution.
 
-<h2 align="center" id="TOC">Table of Contents</h2>
-<head>
-<ul>
-  Justification
-  Description
-  Programming information
-  credits
-  
-</ul>
-<body>
-<h43>Description</h4>
-<p>THis webpage is the landing page that opens a gateway to help young people, and their families to find the most effective and indidualised support to help them manage or overcome their issues with alocohol. Unlike drugs, alcohol is legally available, once an individual turns 18, and is often portrayed in the media, and among adults as a way to socialise, to fit in, and in some cases to relieve issues. 
-  
-</p>
+Install dependencies:
+Bash
+# Install required packages (adjust commands as needed)
+pip install -r requirements.txt
+npm install
+Use code with caution.
 
-Lighthouse Reports. 
+  
+Run the project:
+Bash
+# Start the project (adjust commands as needed)
+python main.py
+node app.js
+Use code with caution.
 
-</body>
+Usage
+A brief explanation of how to use the project. Include any specific commands, configurations, or inputs/outputs.
+
+Contributing
+
+Fork the repository
+Create a new branch
+Make your changes
+Push to your branch
+Submit a pull request
+Please follow our Code of Conduct and Contributing Guidelines.   
+
+License
+This project is licensed under the [License Name] License - see the LICENSE file for details.
+
+Contact
+
+Email: [email address removed]
+Twitter: @your_twitter_handle
+Additional Tips
+
+Use clear and concise language.
+Use headings and code blocks to format your README.
+Include screenshots or GIFs to demonstrate your project.
+Link to relevant documentation or tutorials.
+Use a consistent style and tone.
+Proofread your README carefully.
