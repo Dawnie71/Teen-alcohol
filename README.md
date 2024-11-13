@@ -49,7 +49,7 @@ Adults, in some cases, struggle to regulate their alcohol use and keep it within
 Color selection is a key component to any design process. I particularly wanted my web page to appeal to young people and did a search for colours that would appeal to Gen Z, the age group who my site is aimed at but when I used colours, like bright green, bright pink, yellow and teal, feedback was that the page looked childish. I therefore opted for more subtle colours.
 
 To ensure compliance to standards, the [Colour Contrast Checker](https://colourcontrast.cc/) (also available as extension on [Chrome Web Store](https://chromewebstore.google.com/detail/colour-contrast-checker/)) was used.<br>
-Both the [WebAIM](https://webaim.org/resources/contrastchecker/) and the [Adobe](https://color.adobe.com/create/color-contrast-analyzer) color contrast tools were used to corroborate these results.
+Both the [WebAIM](https://webaim.org/resources/contrastchecker/) and the [Adobe](https://color.adobe.com/create/color-contrast) color contrast tools were used to corroborate these results.
 
 ### Main Palette
 
@@ -80,11 +80,11 @@ These low-fidelity wireframes have been created using [Balsamiq](https://balsami
 
 I opted to use stock imagery, due to the limited time of this assignment. I chose photographs from Pexels (https://www.pexels.com/search/istock/)
  
-#### Navigation ####
+#### Navigation
 
 I opted for navigation to a contact form. The contact form allows anyone accessing the sight to request contact from the organisation.
 
-###Contact Form##
+###Contact Form
 
 The form is designed as a collect all. It requests contact details, and a small message to outline the issue so that an appropriate person can make contact for the most effective initial contact.
 
@@ -107,9 +107,6 @@ Utilising the [Bootstrap Framework](https://getbootstrap.com/docs/5.3/getting-st
 Though it took some experimentation and troubleshooting, I have been able to create a page that is fully responsive to modern standards.
 
 
-## Built With
-
-### Technologies and Languages
 
 ### Tools and Programmes ##
 Git HUb repository - https://fonts.google.com/
@@ -166,6 +163,8 @@ This included regular debugging and testing using the Dev Tools as ptovided with
 My friends who work in various services across Hyndburn, who have volunteered their time but have aske not to be named individually for confidentiality purposes. 
 
 My husband for casting a critical eye over my design and my product... without him I would have given up within an hour!
+
+My wonderful Bootcamp Peers who have been here night and day to answer questions, boost my flagging commitment and cheer me up!
 
 Use clear and concise language.
 Use headings and code blocks to format your README.
