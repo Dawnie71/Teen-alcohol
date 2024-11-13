@@ -3,11 +3,9 @@
 <he>Description</h3>
 At this stage in the programme, my peers and I have been asked to complete a formative assessment to measure our own progress on the course so far. We were given four options, with the same learning outcomes which was to use the applications we have covered so far, HTML, CSS, Bootstrap, and AI. Using these I have developed a one page help website to support young people experiencing issues with alcohol. The specifics are that the Teen Alcohol website, is aimed at young people, and their families, providing information, resources, signposting and contact information for people who wish to speak with someone. Considering our communities and some known concerns when tackling teenage alcohol, it has been important to feature specialist provision for Ethnic communities, and LGBTQ+. Whilst at this stage the links do not lead to the sections offered, it is a consideration for me to develop this beyond the project.
 
-Getting Started
+<h4>Getting Started</h4>h4>
 
-Clone the repository:
-Bash
-git clone https://github.com/your-username/your-repo-name.git
+git https://dawnie71.github.io/Teen-alcohol/
 Use code with caution.
 
 Install dependencies:
