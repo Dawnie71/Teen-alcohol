@@ -1,10 +1,13 @@
 /* Inport Fonts */
-@import url('https://fonts.googleapis.com/css2?family=Comic+Neue:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Oxygen:wght@300;400;700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Comic+Neue:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Oxygen:wght@300;400;700&display=swap")
 
+.navbar {
+    background-color: #01ffff;
+}
 
 body {
     font-family: "oxygen", sans-serif;
-    background-color: #a4c2d1;
+    background-color: #d5ddf1;
 }
 
 h1,
@@ -27,11 +30,11 @@ h2 {
 /* Portfolio */
 
 #portfolio {
-    background-color: #dbdcde;
+    background-color: #01ffff;
 }
 
 #portfolio .card-title {
-    color: #1f7798;
+    color: #18df83;
     font-size: 1.2rem;
 }
 
