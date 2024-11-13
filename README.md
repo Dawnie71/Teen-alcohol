@@ -11,39 +11,6 @@
 <a> My first venture into designing my 
 </a>
 
-<h2 align="center" id="TOC">Table of Contents</h2>
-
-* [Astronauts for Autism](#astronauts-for-autism)
-  - [Introduction](#introduction)
-  - [Table of Contents](#TOC)
-  - [Project Ouline](#project-outline)
-* [Project Planning](#project-planning)
-    - [UX Design](#ux-design)
-      - [User Stories](#user-stories)
-      - [Colors](#colors)
-      - [Fonts](#fonts)
-      - [Imagery](#imagery)
-      - [Wireframes](#wireframes)
-* [Features](#features)
-  - [General Features](#general-features)
-    - [Navigation and Hero Section](#navigation-and-hero-section)
-    - [Bootstrap Cards](#bootstrap-cards)
-    - [Policies Section](#policies-section)
-    - [Footer](#footer)
-    - [Links and Buttons](#links-and-buttons)
-  - [Resnposive Design](#responsive-design)
-* [Built With](#built-with)
-  - [Technology and Languages](#technologies-and-languages)
-  - [Libraries and Frameworks](#libraries-and-frameworks)
-  - [Tools & Programs](#tools-and-programs)
-* [Development](#deployment)
-* [Testing](#testing)
-* [Credits](#credits)
-  - [Code](#code)
-  - [Content Research](#content-research)
-  - [Media](#media)
-  - [Acknowledgements](#acknowledgements)
-
 
 <p align="right"><a href="#astronauts-for-autism">Back To Top</a></p>
 
@@ -120,20 +87,9 @@ Two sans-serif fonts were selected for the project, and implemented via [Google 
 
 ### Wireframes
 
-These low-fidelity wireframes have been created using [Balsamiq](https://balsamiq.com/) to define the key feature layout to guide the user experience design. Utilising the [Bootstrap](https://getbootstrap.com/) framework and available components allows for the construction of a page that feels familiar for ease of navigation whilst also allowing for well structured content and a responsive design. 
-
-**Mobile Wireframe**
+These low-fidelity wireframes have been created using [Balsamiq](https://balsamiq.com/) to plan for the eventu8al web design for well structured content and a responsive design. 
 ![Mobile Wireframe](/documentation/images/wireframe-mobile.webp)
 
-**Tablet Wireframe**
-![Tablet Wireframe](/documentation/images/wireframe-tablet.webp)
-
-**Desktop Wireframes**
-![Desktop Wireframe 1](/documentation/images/wireframe-desktop-1.webp)
-![Desktop Wireframe 2](/documentation/images/wireframe-desktop-2.webp)
-
-<hr>
-<p align="right"><a href="#astronauts-for-autism">Back To Top</a></p>
 
 ## Imagery
 
